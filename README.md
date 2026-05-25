@@ -14,7 +14,7 @@
 
 ```python
 profile = {
-    "name"       : "YOUR NAME",
+    "name"       : "JAHANGIR ALI",
     "role"       : ["Data Engineer", "Data Science Student"],
     "college"    : "Nawab Shah Alam Khan College of Engineering & Technology",
     "year"       : "3rd Year | 5th Semester",
