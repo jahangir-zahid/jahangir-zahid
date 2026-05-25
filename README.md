@@ -14,7 +14,7 @@
 
 ```python
 profile = {
-    "name"       : "JAHANGIR ALI",
+    "name"       : "YOUR NAME",
     "role"       : ["Data Engineer", "Data Science Student"],
     "college"    : "Nawab Shah Alam Khan College of Engineering & Technology",
     "year"       : "3rd Year | 5th Semester",
@@ -28,9 +28,11 @@ profile = {
 
 ## 🎓 Education
 
-| 🏫 College | 📚 Program | 📅 Year |
-|---|---|---|
-| Nawab Shah Alam Khan College of Engineering & Technology | B.E / B.Tech — Data Engineering & Science | 3rd Year, 5th Semester |
+| 🏫 Institution | 📚 Program / Level | 🏆 Score | 📍 Location | 📅 Year |
+|---|---|---|---|---|
+| 🎓 Nawab Shah Alam Khan College of Engineering & Technology | B.E / B.Tech — Data Engineering & Science | Pursuing | Azampura, Hyderabad | 3rd Year, 5th Semester |
+| 📘 Shaheen Group of Institutions | Intermediate — Class 11 & 12 | 82.4% | Malakpet, Hyderabad | Completed |
+| 🏫 Little Nightingales High School | Secondary School — Class 10 | 7.7 CGPA | Yakutpura, Hyderabad | Completed |
 
 ---
 
